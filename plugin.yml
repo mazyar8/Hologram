@@ -1,0 +1,7 @@
+name: Hologram
+description: text hologram
+author: Mazyar8
+main: dev.mazyar8.hologram.Hologram
+version: 1.0
+commands:
+  hologram:
